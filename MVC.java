@@ -2,10 +2,11 @@
 package assignment1;
 
 import javax.swing.*;
+/*Ram*/
 
 public class MVC {
 /**
- * CS 4743 Assignment 1 by <Luis Cortes, Ram Patel>
+ * CS 4743 Assignment 1 by <Luis Cortes, Ram Patel: Assign2>
  * @param args
  */
 	public static void main(String[] args) {
