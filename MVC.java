@@ -4,7 +4,7 @@ import javax.swing.*;
 
 public class MVC {
 /**
- * CS 4743 Assignment 1 by <Stephen Leija>
+ * CS 4743 Assignment 1 by <Luis Cortes, Ram Patel>
  * @param args
  */
 	public static void main(String[] args) {
